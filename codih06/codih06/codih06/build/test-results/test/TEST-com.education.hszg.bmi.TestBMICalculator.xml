@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.education.hszg.bmi.TestBMICalculator" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-17T09:32:42" hostname="MAGICALCLOWN_2" time="0.005">
+  <properties/>
+  <testcase name="TestCalculateBMI(85.123,        1.78,       26.8) [0]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.003"/>
+  <testcase name="TestCalculateBMI(-5.5,          1.24,       0.0) [1]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.0"/>
+  <testcase name="TestCalculateBMI(233,           1.24,       0.0) [2]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.0"/>
+  <testcase name="TestCalculateBMI(85.7,          0.78,       0.0) [3]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.0"/>
+  <testcase name="TestCalculateBMI(85,            1.78,        26.8) [4]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
